@@ -12,3 +12,8 @@ Push
   git push -u origin main
 Current Git-configuration
   git config --list
+TO check git Pointing
+  git remote -v
+To change remote git pointing
+  git remote set-url origin git@github.com:USERNAME/NEW-PROJECT-NAME.git
+
